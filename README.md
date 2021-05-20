@@ -1,5 +1,5 @@
 # Python-data-visualization
-![surf_plot.png](https://github.com/abhinavroy1999/Python-data-visualization/blob/main/Animations/waves.gif=256x256)
+![surf_plot.png](https://github.com/abhinavroy1999/Python-data-visualization/blob/main/Animations/waves.gif){ width=50% }
 
 Scientific data visualization Python scripts for:
 - Surface maps: 3D surface plot of a sin function with Viridis colormap. Plotted using plot_surface function of PyPlot Module of Matplotlib package.
